@@ -1,0 +1,19 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor "Автор статьи" as User
+    usecase "Войти в систему" as UC_Login
+    usecase "Отправить статью" as UC_Send
+actor "Читатель" as User2
+    usecase "Войти в систему" as UC_Login2
+    usecase "Прочитать статью" as UC_Read
+actor "Админ" as User3
+    usecase "Войти в систему" as UC_Login3
+    usecase "Работать со статьями" as UC_Work
+User --> UC_Login
+User --> UC_Send
+User2 --> UC_Login2
+User2 --> UC_Read
+User3 --> UC_Login3
+User3 --> UC_Work
+@enduml
