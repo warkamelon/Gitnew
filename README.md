@@ -26,3 +26,5 @@
 
 
 ![usecase.png](https://github.com/warkamelon/Gitnew/blob/9b1ae9f7ac224058a70c9d83ba1631d7d4a50519/usecase.png)
+
+![блок1.png](https://github.com/warkamelon/Gitnew/blob/97f844ac226deca80e0cc597da8c4df7ac7c8d18/%D0%B1%D0%BB%D0%BE%D0%BA1.png)
