@@ -6,6 +6,7 @@ actor "Автор статьи" as User
     usecase "Отправить статью" as UC_Send
 actor "Читатель" as User2
     usecase "Войти в систему" as UC_Login2
+    usecase "Вывести статьи" as UC_Vivod
     usecase "Прочитать статью" as UC_Read
     usecase "Найти статью" as UC_Find
     usecase "Оценить статью" as UC_Rate
@@ -16,14 +17,15 @@ actor "Админ" as User3
     usecase "Добавить статью" as UC_Dob
     usecase "Отклонить статью" as UC_Den
 User -- UC_Login
-User -- UC_Send
+UC_Login -- UC_Send
 User2 -- UC_Login2
-User2 -- UC_Read
+UC_Login2 -- UC_Read
 UC_Read ..> UC_Find: <<extend>>
 UC_Read ..> UC_Rate: <<extend>>
 User3 -- UC_Login3
-User3 -- UC_Work
-UC_Work ..> UC_Del: <<extend>>
-UC_Work ..> UC_Den: <<extend>>
-UC_Work ..> UC_Dob: <<extend>>
+UC_Login3 -- UC_Work
+UC_Work -- UC_Vivod
+UC_Vivod ..> UC_Del: <<extend>>
+UC_Vivod ..> UC_Den: <<extend>>
+UC_Vivod ..> UC_Dob: <<extend>>
 @enduml
