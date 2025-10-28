@@ -24,9 +24,11 @@
 - Журналы: название, количество статей в журнале, тематика
 - Статьи: название, номер, рейтинг, статус, автор, журнал
 
-##USE-CASE\n
+##USE-CASE
 ![usecase.png](https://github.com/warkamelon/Gitnew/blob/9b1ae9f7ac224058a70c9d83ba1631d7d4a50519/usecase.png)
+
 ##Блок-схема 1
 ![блок1.png](https://github.com/warkamelon/Gitnew/blob/97f844ac226deca80e0cc597da8c4df7ac7c8d18/%D0%B1%D0%BB%D0%BE%D0%BA1.png)
+
 ##Блок-схема 2
 ![блок2.png](https://github.com/warkamelon/Gitnew/blob/a7c9366df27c40ef0f0ea63ef2fe04cc8fc697f1/%D0%B1%D0%BB%D0%BE%D0%BA2.png)
