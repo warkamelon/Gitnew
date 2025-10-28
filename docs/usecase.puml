@@ -28,4 +28,5 @@ UC_Work -- UC_Vivod
 UC_Vivod ..> UC_Del: <<extend>>
 UC_Vivod ..> UC_Den: <<extend>>
 UC_Vivod ..> UC_Dob: <<extend>>
+
 @enduml
