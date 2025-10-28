@@ -25,4 +25,4 @@
 - Статьи: название, номер, рейтинг, статус, автор, журнал
 
 
-![usecase.png](../../Downloads/usecase.png)
+![usecase.png](Downloads/usecase.png](https://github.com/warkamelon/Gitnew/blob/9b1ae9f7ac224058a70c9d83ba1631d7d4a50519/usecase.png))
