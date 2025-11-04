@@ -1,0 +1,19 @@
+@startuml
+start
+
+if (Вы зарегистрированы?) then (нет)
+  :создание аккаунта;
+  :создание пароля;
+else (да)
+endif
+
+repeat
+  :ввод пароля;
+  if (пароль верный?) then (нет)
+  else (да)
+    :вход в систему;
+    stop
+  endif
+repeat while (повтор ввода) is (да) not (нет)
+stop
+@enduml
