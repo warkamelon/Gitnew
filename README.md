@@ -27,6 +27,6 @@
 ## UML-диаграмма
 ![usecase.png](https://github.com/warkamelon/Gitnew/blob/1af143b11796ed416d44a0dbb23a4eb556027177/docs/usecase.png)
 ## Вход в систему
-![block1.png](https://github.com/warkamelon/Gitnew/blob/9e1720548cfc9aa00d579bc59437c530c641268e/docs/block1.png)
+![Снимок экрана 2025-11-10 204605.png](https://github.com/warkamelon/Gitnew/blob/c31e6677780ecefff5b9a1f7ac3007dd655ca491/docs/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-11-10%20204605.png)
 ## Проверка статьи
-![block2.png](https://github.com/warkamelon/Gitnew/blob/47f5baac3baa93eaea3ed69969edd09e6309df75/docs/block2.png)
+![Снимок экрана 2025-11-10 205032.png](https://github.com/warkamelon/Gitnew/blob/0c317783a0d8ed6938c2c80ff36a6a39bace08d2/docs/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-11-10%20205032.png)
