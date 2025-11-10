@@ -24,5 +24,9 @@
 - Журналы: название, количество статей в журнале, тематика
 - Статьи: название, номер, рейтинг, статус, автор, журнал
 
-
+## UML-диаграмма
 ![usecase.png](https://github.com/warkamelon/Gitnew/blob/1af143b11796ed416d44a0dbb23a4eb556027177/docs/usecase.png)
+## Вход в систему
+![block1.png](https://github.com/warkamelon/Gitnew/blob/9e1720548cfc9aa00d579bc59437c530c641268e/docs/block1.png)
+## Проверка статьи
+![block2.png](https://github.com/warkamelon/Gitnew/blob/47f5baac3baa93eaea3ed69969edd09e6309df75/docs/block2.png)
