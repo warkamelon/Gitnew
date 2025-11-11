@@ -69,18 +69,8 @@ def add_user(name,password,role):
     cursor.execute('INSERT INTO User (Name,Password,User_role_ID) VALUES (?,?,?)', (name,password,role))
     conn.commit()
 
-"""
-#Регистрация в системе
-user_name = input('Имя пользователя: ')
-user_password = input('Придумайте пароль: ')
-user_role = int(input('Кто вы?\n'
-                 '1 - Читатель\n'
-                 '2 - Автор\n'
-                 '3 - Администратор\n'))
-add_user(user_name,user_password,user_role)
-cursor.execute("SELECT * FROM User")
-print(cursor.fetchall())
-"""
+
+
 #Функции для входа в систему
 #Проверка пароля
 def pass_check(passw,name):
@@ -114,5 +104,5 @@ if choice1 == 1:
 elif choice1 == 2:
     name = input("Введите имя пользователя: ")
     login(name)
-conn.close()
+
 

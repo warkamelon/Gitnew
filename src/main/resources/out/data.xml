@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<users><user><Name>Петя</Name><Password>petya2007</Password><user_role><role_name>Автор</role_name><role_comment>Отправление статей</role_comment></user_role></user><user><Name>ааа</Name><Password>iurtp38tyg</Password><user_role><role_name>Администратор</role_name><role_comment>Проверка статей</role_comment></user_role></user><user><Name>биба</Name><Password>4857руваруер35н342оузшкгцкшз</Password><user_role><role_name>Читатель</role_name><role_comment>Чтение и оценка статей</role_comment></user_role></user></users>

@@ -1,0 +1,15 @@
+- Name: Петя
+  Password: petya2007
+  user_role:
+    role_comment: Отправление статей
+    role_name: Автор
+- Name: ааа
+  Password: iurtp38tyg
+  user_role:
+    role_comment: Проверка статей
+    role_name: Администратор
+- Name: биба
+  Password: 4857руваруер35н342оузшкгцкшз
+  user_role:
+    role_comment: Чтение и оценка статей
+    role_name: Читатель

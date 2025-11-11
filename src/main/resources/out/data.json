@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Петя",
+    "Password": "petya2007",
+    "user_role": {
+      "role_name": "Автор",
+      "role_comment": "Отправление статей"
+    }
+  },
+  {
+    "Name": "ааа",
+    "Password": "iurtp38tyg",
+    "user_role": {
+      "role_name": "Администратор",
+      "role_comment": "Проверка статей"
+    }
+  },
+  {
+    "Name": "биба",
+    "Password": "4857руваруер35н342оузшкгцкшз",
+    "user_role": {
+      "role_name": "Читатель",
+      "role_comment": "Чтение и оценка статей"
+    }
+  }
+]
