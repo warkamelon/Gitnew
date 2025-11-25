@@ -22,5 +22,13 @@
       "role_name": "Читатель",
       "role_comment": "Чтение и оценка статей"
     }
+  },
+  {
+    "Name": "Читатель1",
+    "Password": "reader",
+    "user_role": {
+      "role_name": "Читатель",
+      "role_comment": "Чтение и оценка статей"
+    }
   }
 ]

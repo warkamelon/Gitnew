@@ -1,4 +1,4 @@
-"""
+import sqlite3
 import json
 import csv
 import xml.etree.ElementTree as ET
@@ -110,4 +110,3 @@ def export_user_data(db_path='journals.db'):
 # Запуск функции
 if __name__ == "__main__":
     export_user_data()
-"""

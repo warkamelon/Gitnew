@@ -13,3 +13,8 @@
   user_role:
     role_comment: Чтение и оценка статей
     role_name: Читатель
+- Name: Читатель1
+  Password: reader
+  user_role:
+    role_comment: Чтение и оценка статей
+    role_name: Читатель
